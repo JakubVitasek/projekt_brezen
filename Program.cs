@@ -12,3 +12,6 @@ if (cislo11 < cislo22)
 
 if (cislo11 > cislo22)
     Console.WriteLine($"{cislo22} je menší než  {cislo11}");
+
+if (cislo11 == cislo22)
+    Console.WriteLine("Čísla jsou rovna");
